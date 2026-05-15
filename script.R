@@ -5,3 +5,4 @@ print(x)
 # do not know! 
 
 usethis::use_git_config(credential.helper = "store")
+blah
